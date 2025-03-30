@@ -1,0 +1,22 @@
+{
+  "name": "interview-tekmetric---mcj",
+  "version": "1.0.0",
+  "description": "- [Backend Interview Guidelines](backend/README.md)\r - [Frontend Interview Guidelines](frontend/README.md)\r - [Data Interview Guidelines](data/README.md)\r - [Platform Interview Guidelines](platform/README.md)\r - [QA Interview Guidelines](qa/README.md)",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcreel15/interview-Tekmetric---MCJ.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mcreel15/interview-Tekmetric---MCJ/issues"
+  },
+  "homepage": "https://github.com/mcreel15/interview-Tekmetric---MCJ#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.51.1",
+    "@types/node": "^22.13.11"
+  }
+}

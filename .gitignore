@@ -12,3 +12,10 @@ qa/playwright/.cache/
 
 # ignoring the .idea folder
 .idea
+
+# Playwright
+node_modules/
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
